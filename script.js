@@ -587,7 +587,7 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of love From Kuro',//untuk deskripsi planet layer 1
+  'Aku sayang kamu Shin',//untuk deskripsi planet layer 1
   "I love you Shin",//untuk deskripsi planet layer 2
   "♡My Beloved Shin♡",//untuk deskripsi planet layer 3
   "11/17/2025",//untuk deskripsi planet layer 4
